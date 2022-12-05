@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🔭 I'm currently working on https://github.com/Azure/LogicAppsUX
+I am a designer working on Developer Experience in Azure, a few things that I am working on
+- 🔭 Reimaging the [Data mapping experience for Logic Apps](https://github.com/Azure/LogicAppsUX)
+- 💬 Improving [Static web apps End-to-end experience](https://github.com/Azure/static-web-apps)
 
 <!--
 **rickixie/rickixie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
